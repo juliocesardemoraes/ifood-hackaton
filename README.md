@@ -1,6 +1,6 @@
 # IFOOD HACKATON
 
-## Frontend
+## Site
 https://ifoodlist-front.vercel.app/
 
 ## Backend
